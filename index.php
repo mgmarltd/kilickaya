@@ -244,27 +244,7 @@
 	
 	
 
-	<div id="fh5co-testimonial" class="fh5co-bg-section">
-		<div class="container">
-			<div class="row animate-box">
-				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-					<h2><b>DAHİLDE İŞLEME REJİMİ</b></h2>
-				</div>
-			</div>
-			<div class="row text-center">
-			<p>Türk İhraç ürünlerine dünya piyasalarında rekabet gücü kazandırmak ve ihraç ürünlerimizi çeşitlendirmek amacıyla, dünya piyasa fiyatlarından gümrük muafiyetli olarak, ticaret politikası önlemlerine tabi olmaksızın, ihraç ürünün üretimi için gerekli olan ve fiyat ve/veya kalite bakımından yurt içi piyasalardan temin edilemeyen; hammadde, yardımcı madde ve ambalaj malzemeleri ithalatına imkan veren ekonomik etkili bir gümrük rejimidir. </p>	
-			<br/>
-			<p>Dahilde İşleme Rejiminde; ‘Şartlı Muafiyet’ ve ‘Geri Ödeme Sistemi’ olmak üzere; iki tür dahilde işleme tedbiri uygulanmakta olup şartlı muafiyet sisteminde; ithalat sırasında doğan vergilerin teminata bağlanırken, geri ödeme sisteminde; ithalat esnasında vergi alınmakta, işlem görmüş ürünün ihracı halinde ise alınan vergi iade edilmektedir. </p>
-		</div>
-		<br/>
-		<br/>
-
-		<br/>
-
-		<br/>
-
-	</div>
-
+	
 	
 
 	
