@@ -57,7 +57,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-2">
-						<div id="fh5co-logo"><a href="index.html">KILIÇKAYA<span>.</span></a></div>
+						<div id="fh5co-logo"><a href="index.html"><img src="images/logo.png"></a></div>
 					</div>
 					<div class="col-xs-10 text-right menu-1">
 						<ul>
