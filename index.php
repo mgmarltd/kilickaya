@@ -129,7 +129,7 @@
 		</div>
 		<div class="choose animate-box" id="about">
 			<div class="fh5co-heading">
-				<h2>Hüsametdin Kılıçkaya Avukat</h2>
+				<h2>Hüsametdin Kılıçkaya <br/> Avukat</h2>
 				<p>A.Ü. Siyasal Bilgiler Fakültesi ve A.Ü. Hukuk Fakültesi mezunudur. Ticaret Bakanlığında(daha sonra sırasıyla Hazine ve Dış Ticaret Müsteşarlığı, Dışticaret Müsteşarlığı, Ekonomi Bakanlığı ve Ticaret Bakanlığı isimlerini almıştır) uzman yardımcısı olarak başladığı memuriyet hayatına yurt içinde  muhtelif kademelerde (Şube Müdürü, Daire Başkanı, Genel Müdür Yardımcısı ve Genel Müdür Vekilliği), yurtdışında da muhtelif ülkelerde Ticaret Ataşeliği görevlerinde bulunmuştur. 2019 yılında memuriyet hayatını sonlandıran Kılıçkaya, 2020 yılında Ankara barosuna kayıtlı avukat olarak mesleğe başlamıştır.</p>
 			</div>
 		</div>
@@ -139,7 +139,7 @@
 		<div class="container">
 			<div class="row animate-box" id="work">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>FAALİYET ALANLARIMIZ</h2>
+					<h2>ÇALIŞMA ALANLARIMIZ</h2>
 				</div>
 			</div>
 			<div class="row">
