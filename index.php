@@ -82,7 +82,7 @@
 		   			<div class="row">
 			   			<div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
 			   				<div class="slider-text-inner">
-			   					<h1>BAKILAN DAVALAR VE ÇALIŞMA ALANLARI</h1>
+			   					<h1>AVUKATLIK</h1>
 									<p><a class="btn btn-primary btn-lg" href="tel:+905322461286">Detaylı Bilgi için Bizi Arayın</a></p>
 
 			   				</div>
@@ -96,7 +96,7 @@
 		   			<div class="row">
 			   			<div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
 			   				<div class="slider-text-inner">
-			   					<h1>İHRACATA YÖNELİK DEVLET YARDIMLARI</h1>
+			   					<h1>DANIŞMANLIK</h1>
 									<p><a class="btn btn-primary btn-lg" href="tel:+905322461286">Detaylı Bilgi için Bizi Arayın</a></p>
 			   				</div>
 			   			</div>
@@ -109,7 +109,7 @@
 		   			<div class="row">
 			   			<div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
 			   				<div class="slider-text-inner">
-			   					<h1>HUKUKİ DANIŞMANLIK</h1>
+			   					<h1>ARABULUCULUK</h1>
 									<p><a class="btn btn-primary btn-lg" href="tel:+905322461286">Detaylı Bilgi için Bizi Arayın</a></p>
 			   				</div>
 			   			</div>
@@ -126,8 +126,8 @@
 		</div>
 		<div class="choose animate-box" id="about">
 			<div class="fh5co-heading">
-				<h2>Hüsametdin Kılıçkaya Kimdir?</h2>
-				<p>A.Ü. Siyasal Bilgiler Fakültesi (1980) ve A.Ü. Hukuk Fakültesi (2019) mezunudur. Ticaret Bakanlığında(daha sonra sırasıyla Hazine ve Dış Ticaret Müsteşarlığı, Dışticaret Müsteşarlığı, Ekonomi Bakanlığı ve Ticaret Bakanlığı isimlerini almıştır) uzman yardımcısı olarak başladığı memuriyet hayatına yurt içinde  muhtelif kademelerde (Şube Müdürü, Daire Başkanı, Genel Müdür Yardımcısı ve Genel Müdür Vekilliği), yurtdışında da muhtelif ülkelerde Ticaret Ataşeliği görevlerinde bulunmuştur. 2019 yılında memuriyet hayatını sonlandıran Kılıçkaya, 2020 yılında Ankara barosuna kayıtlı avukat olarak mesleğe başlamıştır.</p>
+				<h2>Hüsametdin Kılıçkaya Avukat</h2>
+				<p>A.Ü. Siyasal Bilgiler Fakültesi ve A.Ü. Hukuk Fakültesi mezunudur. Ticaret Bakanlığında(daha sonra sırasıyla Hazine ve Dış Ticaret Müsteşarlığı, Dışticaret Müsteşarlığı, Ekonomi Bakanlığı ve Ticaret Bakanlığı isimlerini almıştır) uzman yardımcısı olarak başladığı memuriyet hayatına yurt içinde  muhtelif kademelerde (Şube Müdürü, Daire Başkanı, Genel Müdür Yardımcısı ve Genel Müdür Vekilliği), yurtdışında da muhtelif ülkelerde Ticaret Ataşeliği görevlerinde bulunmuştur. 2019 yılında memuriyet hayatını sonlandıran Kılıçkaya, 2020 yılında Ankara barosuna kayıtlı avukat olarak mesleğe başlamıştır.</p>
 			</div>
 		</div>
 	</div>
@@ -136,7 +136,7 @@
 		<div class="container">
 			<div class="row animate-box" id="work">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>Çalıştığımı Hukuk Alanları</h2>
+					<h2>FAALİYET ALANLARIMIZ</h2>
 				</div>
 			</div>
 			<div class="row">
@@ -258,7 +258,7 @@
 					<h2>DAHİLDE İŞLEME REJİMİ</h2>
 					<p>Türk İhraç ürünlerine dünya piyasalarında rekabet gücü kazandırmak ve ihraç ürünlerimizi çeşitlendirmek amacıyla, dünya piyasa fiyatlarından gümrük muafiyetli olarak, ticaret politikası önlemlerine tabi olmaksızın, ihraç ürünün üretimi için gerekli olan ve fiyat ve/veya kalite bakımından yurt içi piyasalardan temin edilemeyen; hammadde, yardımcı madde ve ambalaj malzemeleri ithalatına imkan veren ekonomik etkili bir gümrük rejimidir.
 </p><p>
-Dahilde İşleme Rejiminde; ‘Şartlı Muafiyet’ ve ‘Geri Ödeme Sistemi’ olmak üzere; iki tür dahilde işleme tedbiri uygulanmakta olup şartlı muafiyet sisteminde; ithalat sırasında doğan vergilerin teminata bağlanırken, geri ödeme sisteminde; ithalat esnasında vergi alınmakta, işlem görmüş ürünün ihracı halinde ise alınan vergi iade edilmektedir
+Dahilde İşleme Rejiminde; ‘Şartlı Muafiyet’ ve ‘Geri Ödeme Sistemi’ olmak üzere; iki tür dahilde işleme tedbiri uygulanmakta olup şartlı muafiyet sisteminde; ithalat sırasında doğan vergiler teminata bağlanırken, geri ödeme sisteminde; ithalat esnasında vergi alınmakta, işlem görmüş ürünün ihracı halinde ise alınan vergi iade edilmektedir
 </p>
 				</div>
 			</div>
@@ -286,7 +286,7 @@ Dahilde İşleme Rejiminde; ‘Şartlı Muafiyet’ ve ‘Geri Ödeme Sistemi’
 				<div class="col-md-3 col-md-push-1" id="contact">
 					<h4>İletişim Bilgilerimiz</h4>
 					<ul class="fh5co-footer-links">
-						<li>Mebusevleri Mahallesi Turgut Reis Caddesi, 4/3 06570 Çankaya/Ankara</li>
+						<li>Mebusevleri Mahallesi <br/> Turgut Reis Caddesi, 4/3<br/> 06570 Çankaya/Ankara</li>
 						<li><a href="tel:+905322461286">+90 532 246 1286</a></li>
 						<li><a href="mailto:avkilickaya@gmail.com">avkilickaya@gmail.com</a></li>
 					</ul>
